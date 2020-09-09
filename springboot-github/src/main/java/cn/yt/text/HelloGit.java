@@ -3,6 +3,7 @@ package cn.yt.text;
 public class HelloGit {
     public void HelloGit(){
         System.out.println("hello git");
+        System.out.println("hi");
     }
 
     public static void main(String[] args) {
